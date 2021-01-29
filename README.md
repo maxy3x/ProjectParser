@@ -1,0 +1,2 @@
+# ProjectParser
+Parses projects folders
